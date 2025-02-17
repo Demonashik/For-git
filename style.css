@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    height: 90px;
+}
+
+
+header{
+    background-color: red;
+    /* height: 110px; */
+}
+.item{
+    width: 25px;
+    height: 20px;
+    background-color: blue;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+    padding: 0px 0px 20px 0px ;
+}
+ul li {
+    list-style: none;
+    background-color: gray;
+    border-radius: 10px ;
+}
+
+
+
+ul li a {
+    text-decoration: none;
+    color: blue;
+}
